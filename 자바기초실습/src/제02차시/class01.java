@@ -26,6 +26,7 @@ public class class01 {
 		System.out.println("난i, 뭐라고 부른다고? 필드 또는 멤버 변수라니깐");
 		System.out.println("현재 i: "+i);
 		
+		
 	}
 
 }

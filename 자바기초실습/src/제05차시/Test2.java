@@ -1,8 +1,8 @@
 package 제05차시;
 
 public class Test2 {
-	public static void main(String[]args) {
-		int a=1,b=2,c=3;
+	
+		int a=1,b=2,c=3,d=1234;
 		Test2(){
 			int a=4;
 			System.out.println("a:"+a);
@@ -29,6 +29,12 @@ public class Test2 {
 			
 			
 		}
+		void method1(int a) {
+			int b=9;
+			System.out.println("a:"+a+",b:"+b+",c:"+c);
+		}
 	}
 
-}
+
+
+

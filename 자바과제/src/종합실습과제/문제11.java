@@ -24,7 +24,7 @@ public class 문제11 {
 		int d1 = (int) Math.pow(x2 - (x1), 2);
 		int d2 = (int) Math.pow(y2 - (y1), 2);
 		int r = (int) Math.pow(z2 - (z1), 2);
-		int d = d1 + d2;
+	    int d = d1 + d2;
 		if (d <= r)
 			System.out.println("판정 : 겹침");
 		else if (d == r)
@@ -34,3 +34,6 @@ public class 문제11 {
 	}
 
 }
+
+
+

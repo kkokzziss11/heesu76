@@ -3,7 +3,8 @@ package 제05차시;
 public class Test2 {
 	
 		int a=1,b=2,c=3,d=1234;
-		Test2(){
+		
+	    Test2(){
 			int a=4;
 			System.out.println("a:"+a);
 			
